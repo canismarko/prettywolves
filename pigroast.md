@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pig-Roast
+title: Michigan
 permalink: /pig-roast/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ceremony
+title: France
 permalink: /ceremony/
 ---
 
