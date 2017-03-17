@@ -4,10 +4,46 @@ title: France
 permalink: /ceremony/
 ---
 
-<div class="alert alert-warning">
-  We will be having a ceremony and reception in <strong>Amboise,
-    France on 13 May</strong> 2017. Check back soon more details.
+<div class="row">
+  <div class="col-md-6">
+    <h3>Saturday 13 May 2017</h3>
+
+    <dl>
+      <dt>17:00 - Ceremony</dt>
+      <dd>
+	Clos Luce'<br />
+	2 Rue du Clos Luce'<br />
+	37400 Amboise, France<br />
+      </dd>
+
+      <dt>17:30 - Vin d'honneur</dt>
+      <dd>
+	Wine and light appetizers<br />
+      </dd>
+
+      <dt>19:30 - Dinner</dt>
+      <dd>Chicken or vegetarian</dd>
+
+      <dt>21:30 - Dancing</dt>
+    </dl>
+  </div>
+
+  <div class="col-md-6">
+    <h3>Sunday 14 May 2017</h3>
+
+    <dl>
+      <dt>10:00 - Brunch</dt>
+      <dd>
+	12 Rue du Vau de Bonnin<br />
+	37400 Amboise
+      </dd>
+    </dl>
+  </div>
 </div>
+
+<hr />
+
+<h2>Local Information</h2>
 
 <ul>
  <li>
