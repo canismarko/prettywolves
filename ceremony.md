@@ -6,13 +6,13 @@ permalink: /ceremony/
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Saturday 13 May 2017</h3>
+    <h3>Saturday - 13 May 2017</h3>
 
     <dl>
       <dt>17:00 - Ceremony</dt>
       <dd>
-	Clos Luce'<br />
-	2 Rue du Clos Luce'<br />
+	Clos Luc&eacute;<br />
+	2 Rue du Clos Luc&eacute;<br />
 	37400 Amboise, France<br />
       </dd>
 
@@ -29,7 +29,7 @@ permalink: /ceremony/
   </div>
 
   <div class="col-md-6">
-    <h3>Sunday 14 May 2017</h3>
+    <h3>Sunday - 14 May 2017</h3>
 
     <dl>
       <dt>10:00 - Brunch</dt>

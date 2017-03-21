@@ -8,7 +8,39 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+.about-page p {
+    text-align: justify;
+}
 
+.about-page h2 {
+    text-align: center;
+}
+
+/**
+ * A new alert box with the main color theme
+ */
+.alert-primary {
+    background-color: $color-primary-1;
+    border-color: $color-primary-2;
+}
+
+.btn-primary, .btn-primary:visited {
+    color: $color-primary-1;
+    background-color: $color-primary-3;
+    border-color: $color-primary-3;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: $color-primary-4;
+    border-color: $color-primary-4;
+}
+
+.btn-primary:active:focus {
+    color: white;
+    background-color: darken($color-primary-4, 10%);
+    border-color: darken($color-primary-4, 10%);
+}
 
 /**
  * Basic styling
@@ -25,7 +57,10 @@ body {
     font-kerning: normal;
 }
 
-
+.welcome-message {
+    margin-bottom: 2.5em;
+    font-size: 110%;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

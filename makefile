@@ -12,7 +12,7 @@ all:
 # 	lessc --clean-css css/kacs.less css/kacs.css
 
 deploy: all
-	rsync -alvz --del _site/ $(REMOTE)
+	rsync -rlDvz --del _site/ $(REMOTE)
 
 serve:
 	jekyll serve --watch
