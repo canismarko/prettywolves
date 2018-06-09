@@ -1,4 +1,4 @@
-REMOTE=mwolf@simon.artiosonline.com:/srv/prettywolves/
+REMOTE=mwolf@kalamazooacs.org:/srv/prettywolves/
 # CONFIG=_config.yml,_config-deploy.yml
 CONFIG=_config.yml
 BUILD=jekyll build --config $(CONFIG)
